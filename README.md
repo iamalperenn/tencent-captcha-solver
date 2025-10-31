@@ -1,5 +1,6 @@
 my first captcha solver that teached me how captcha solvers work lol
 
+u will get the solving response in about 1-5 seconds (better than mostly paid solvers)
 
 I used YOLO 11 Image Recognition to train a dataset i hand labeled, it took around 300+ (with augmentation) to achieve this rate of succession.
 
